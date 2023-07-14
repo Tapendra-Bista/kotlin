@@ -1,0 +1,17 @@
+/*
+
+Since Kotlin was developed keeping in mind the
+ interoperability with Java. It makes it easier
+  to use Java code from within itself.
+   A Kotlin class or a function can refer to the Java 
+classes and their methods in a simple way.
+
+
+
+
+
+
+
+
+
+*/
